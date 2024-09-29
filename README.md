@@ -1,0 +1,1 @@
+# EcoHaul_TrashCollection_Application
