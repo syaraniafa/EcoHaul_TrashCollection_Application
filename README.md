@@ -23,8 +23,8 @@ Users can update their personal information, manage notification preferences, ad
 This feature regularly sends educational content about recycling, effective waste management tips, and environmental news to enhance users' awareness and knowledge of sustainable practices.  
 
 ## Contributors
-2501971742 - Alisha Zahra Saadiya   
-2502008630 - Cyntia Angelica  
-2501975620 - Diva Nabila Henryka  
-2540121322 - Lovina Anabelle Citra  
-2502037864 - Syarani Afa Natira Kusumah  
+2501971742 - ALISHA ZAHRA SAADIYA   
+2502008630 - CYNTIA ANGELICA  
+2501975620 - DIVA NABILA HENRYKA  
+2540121322 - LOVINA ANABELLE CITRA  
+2502037864 - SYARANI AFA NATIRA KUSUMAH  
