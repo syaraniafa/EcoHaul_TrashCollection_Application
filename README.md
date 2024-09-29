@@ -1,4 +1,4 @@
-# EcoHaul, Trash Collection App
+# EcoHaul - Trash Collection Application
 EcoHaul is an application designed to address the growing challenge of waste management in Indonesia, where inefficient infrastructure and limited access to recycling services hinder effective waste disposal. With Indonesia ranking fifth globally in waste production, EcoHaul serves as a vital platform that connects consumers with recycling and waste collection services. The application features convenient options for waste pick-up and drop-off, as well as a newsletter aimed at raising public awareness about the importance of recycling. By bridging the gap between consumers and recycling services, EcoHaul seeks to enhance waste management practices and contribute to a cleaner, more sustainable environment.
 
 ## Additional Information
