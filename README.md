@@ -7,18 +7,25 @@ EcoHaul application was developed as a final project for two university courses:
 ## Application Features
 **1. Sign In and Sign Up**  
    New users can register easily by providing basic information or through social media accounts, while existing users can log in with their registered email and password or social media credentials.  
+   
 **2. Redeem Points**  
 Users earn points for using pickup or drop-off services based on the amount of waste they submit, which can be redeemed for various rewards and shopping vouchers within the app.  
+
 **3. Location**  
 This feature displays a map and directions to nearby drop-off locations and available pickup services, including operational hours, accepted waste types, and contact information.  
+
 **4. Pick Up**  
 Users can schedule waste pickups at their convenience, receiving notifications about the pickup status and confirmations from the service provider.  
+
 **5. Drop Off**  
 The app provides information on the nearest drop-off locations, including recycling centers and waste collection points, with an interactive map for easy navigation.  
+
 **6. History**  
 Users can view a detailed list of all their pickup and drop-off transactions, including dates, amounts of waste submitted, points earned, and rewards redeemed.  
+
 **7. Profile**  
 Users can update their personal information, manage notification preferences, adjust privacy settings, and enable additional security features like two-factor authentication.  
+
 **8. Newsletter**  
 This feature regularly sends educational content about recycling, effective waste management tips, and environmental news to enhance users' awareness and knowledge of sustainable practices.  
 
